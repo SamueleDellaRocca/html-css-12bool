@@ -1,0 +1,25 @@
+[class*=col-] {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    height: 60px;
+    line-height: 58px;
+    background-color: blue;
+    border: 2px solid white;
+}
+
+.margin {
+    margin: 7px;
+    border: 0px;
+}
+
+.green {
+    background-color: green;
+    height: 40px;
+    line-height: 38px;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
