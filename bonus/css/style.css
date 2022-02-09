@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+[class*=col-] {
+    height: 50px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.container {
+    width: 800px;
+    margin: 50px auto;
+
+}
